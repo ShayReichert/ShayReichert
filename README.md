@@ -1,4 +1,14 @@
-### Hi there 👋
+### Shay Reichert
+
+-- 🌱 I’m currently learning React & JS 🌱 --
+
+-- 💬 Ask me about: collaborate, work 💬 --
+
+-- 📫 Mail: shay.reichert@gmail.com 📫 --
+
+-- 😄 Pronoun: il/he 😄 --
+
+-- ⚡ Fun fact: I've making music in a band called pointpointvirgulepointvirgulecrochetparenthèse ⚡ --
 
 <!--
 **ShayReichert/ShayReichert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
