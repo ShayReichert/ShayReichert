@@ -1,26 +1,17 @@
-### Shay Reichert
-
--- 🌱 I’m currently learning React & JS 🌱 --
-
--- 💬 Ask me about: collaborate, work 💬 --
-
--- 📫 Mail: shay.reichert@gmail.com 📫 --
-
--- 😄 Pronoun: il/he 😄 --
-
--- ⚡ Fun fact: I've making music in a band called pointpointvirgulepointvirgulecrochetparenthèse ⚡ --
-
-<!--
-**ShayReichert/ShayReichert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Shay Reichert
+### Front-end development
+```
+🌱 I’m currently learning : React & JS
+```
+```
+💬  Ask me about: collaborate, work
+```
+```
+📫  Mail: shay.reichert@gmail.com   
+```
+```
+🙃 Pronoun: il/he
+```
+```
+🎵 About me: I play music in a band called pointpointvirgulepointvirgulecrochetparenthèse
+```
