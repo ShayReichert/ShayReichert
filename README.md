@@ -7,7 +7,7 @@
 💬  Ask me about: collaborate, work
 ```
 ```
-📫  Mail: shay.reichert@gmail.com   
+📫  Mail: shay.reichert@outlook.fr
 ```
 ```
 🙃 Pronoun: il/he
