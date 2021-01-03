@@ -13,5 +13,5 @@
 🙃 Pronoun: il/he
 ```
 ```
-🎵 About me: I play music in a band called pointpointvirgulepointvirgulecrochetparenthèse
+🎬 My favorite web projet: lesqueeriersducinema.com
 ```
