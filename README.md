@@ -13,5 +13,5 @@
 🙃 Pronoun: il/he
 ```
 ```
-🎬 My favorite web projet: lesqueeriersducinema.com
+🎬 My favorite web project: lesqueeriersducinema.com
 ```
