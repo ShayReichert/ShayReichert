@@ -1,5 +1,5 @@
 # Shay Reichert
-### Front-end development
+### Front-end development / React / Gatsby
 ```
 🌱 I’m currently learning : React & Gatsby
 ```
