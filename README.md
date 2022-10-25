@@ -1,7 +1,7 @@
 # Shay Reichert
-### Front-end development / React / Gatsby
+### Front-end development / React / Wordpress
 ```
-🌱 I’m currently learning : React & Gatsby
+🌱 I’m currently learning : React
 ```
 ```
 💬  Ask me about: collaborate, work
