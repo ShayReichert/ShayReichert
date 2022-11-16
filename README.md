@@ -1,4 +1,4 @@
-# Shay Reichert
+# Shay
 ### Front-end development / React / Wordpress
 ```
 🌱 I’m currently learning : React
