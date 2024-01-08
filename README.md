@@ -1,5 +1,5 @@
 # Shay
-### Front-end development / React / Wordpress
+### Front-end development / React & Next.js / Wordpress
 ```
 🌱 I am a web developer at Diclicweb. 
 I work on committed and ethical projects.
