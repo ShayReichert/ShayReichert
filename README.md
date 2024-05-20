@@ -3,7 +3,7 @@
 ```
 🌱 I am a web developer at Diclicweb. 
 I work on committed and ethical projects.
-Stack : React / Next.js  |  WordPress / PHP
+Stack : React / Next.js
 ```
 ```
 💬  Ask me about: collaborate, work
