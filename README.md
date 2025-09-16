@@ -15,5 +15,5 @@ Stack : React / Next.js
 🙃 Pronoun: il/he
 ```
 ```
-🎬 My latest web projects: Super Secret Santa / Jeux et Talents
+🎬 My latest web projects: On s'en grille une ? / Super Secret Santa
 ```
